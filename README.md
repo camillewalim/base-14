@@ -13,3 +13,4 @@ Have a 'rolling' base image that let me achieve those objectives in parallel :
  - Purely functional application both from code (webflux) & test (quicktheory, stepverifier)
  - Non-Blocking and Fast code (WebFlux + Netty websockets)
  - Easily embeddable (Swagger, Flyway, H2, Hibernate) for fully automated cicd (Jenkins & Docker)
+
